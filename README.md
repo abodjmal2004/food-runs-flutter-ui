@@ -53,3 +53,21 @@ git clone https://github.com/abodjmal2004/food-runs-flutter-ui.git
 cd food-runs-flutter-ui
 flutter pub get
 flutter run
+```
+---
+
+---
+
+## 👨‍💻 Developer
+
+**Abodjmal** — Flutter UI Developer  
+
+Passionate about building modern mobile UI, clean architecture, and smooth user experiences.
+
+### 🌐 Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/xw_25aa)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/xw_.0)
+[![GitHub](https://img.shields.io/badge/GitHub-abodjmal2004-black?logo=github)](https://github.com/abodjmal2004)
+
+
