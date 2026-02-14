@@ -35,6 +35,14 @@ Designed with clean architecture, smooth navigation flow, and modern mobile UX.
 | ![](assets/screens/home.png) | ![](assets/screens/product.png) | ![](assets/screens/order.png) |
 
 > You can replace these images with real app screenshots.
+>
+> 📂 Project Structure
+> lib/
+ ├── screens/
+ ├── widgets/
+ ├── models/
+ └── main.dart
+
 
 ---
 
