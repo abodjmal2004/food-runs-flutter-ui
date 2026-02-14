@@ -20,17 +20,12 @@ Designed with clean architecture, smooth navigation flow, and modern mobile UX.
 ---
 ## 📱 App Screens
 
-### 🏠 Home
-<img src="readme_images/Home.png" width="260" />
-
-### 🔐 Login
-<img src="readme_images/login.png" width="260" />
-
-### 💬 Chat
-<img src="readme_images/chat.png" width="260" />
-
-### 🧾 Order
-<img src="readme_images/order.png" width="260" />
+<p align="center">
+  <img src="readme_images/Home.png" width="220" />
+  <img src="readme_images/login.png" width="220" />
+  <img src="readme_images/chat.png" width="220" />
+  <img src="readme_images/order.png" width="220" />
+</p>
 
 
 ---
