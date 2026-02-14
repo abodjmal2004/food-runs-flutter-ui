@@ -28,6 +28,15 @@ Designed with clean architecture, smooth navigation flow, and modern mobile UX.
 
 ---
 
+##📜 License
+
+```md
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![Dart](https://img.shields.io/badge/Dart-2.x-blue)
+![UI Design](https://img.shields.io/badge/UI-Clean%20Design-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+```
+
 ## 📱 Screenshots
 
 | Home | Product Details | Order |
