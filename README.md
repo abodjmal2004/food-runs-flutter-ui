@@ -18,6 +18,21 @@ Designed with clean architecture, smooth navigation flow, and modern mobile UX.
 - ✅ Finish Order Screen
 
 ---
+## 📱 App Screens
+
+### 🏠 Home Screen
+![Home](readme_images/Home.png)
+
+### 🔐 Login Screen
+![Login](readme_images/login.png)
+
+### 💬 Chat Screen
+![Chat](readme_images/chat.png)
+
+### 🧾 Order Screen
+![Order](readme_images/order.png)
+
+---
 
 ## 🧩 Tech Stack
 
