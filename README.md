@@ -12,10 +12,10 @@ A modern, high-fidelity Food Delivery Mobile UI built with **Flutter**. This pro
 ## 📱 App Preview
 
 <p align="center">
-  <img src="readme_images/login.png" width="23%" alt="Login Screen">
-  <img src="assets/screenshots/Home.png" width="23%" alt="Home Screen" onerror="this.src='readme_images/Home.png'">
-  <img src="readme_images/order.png" width="23%" alt="Order Screen">
-  <img src="readme_images/chat.png" width="23%" alt="Chat Screen">
+  <img src="readme_images/login.png" width="220" alt="Login Screen">
+  <img src="readme_images/Home.png" width="220" alt="Home Screen">
+  <img src="readme_images/order.png" width="220" alt="Order Screen">
+  <img src="readme_images/chat.png" width="220" alt="Chat Screen">
 </p>
 
 ---
